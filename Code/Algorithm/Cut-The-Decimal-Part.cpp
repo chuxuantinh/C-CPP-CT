@@ -1,4 +1,4 @@
-/* Code by KingNNT */
+
 #include <bits/stdc++.h>
 
 #define pathio "/mnt/Learning And Working/Code/C-CPP/GNU-Compiler/In-Out/"
